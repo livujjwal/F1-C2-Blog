@@ -14,7 +14,7 @@ Contact
 
 ##Getting Started
 
-In this section, we provide an overview of Blog and explain how to get started with the project. It includes information on prerequisites, setup, and any initial configurations that users or contributors should be aware of.
+In this section, we provide an overview of Blog and explain how to get started with the project. It includes information that users or contributors should be aware of.
 
 ##Tech Used
 
