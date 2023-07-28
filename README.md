@@ -5,9 +5,11 @@ Blog is an exciting and innovative project that aims to built an blog page havin
 ##Table of Contents
 
 Getting Started
+
 Tech Used
-Features
+
 Screenshots
+
 Contact
 
 ##Getting Started
