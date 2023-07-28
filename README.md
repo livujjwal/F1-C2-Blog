@@ -26,14 +26,19 @@ CSS - A stylesheet language used to control the presentation and layout of HTML 
 
 Here are some screenshots of Blog in action:
 
-Screenshot 1
-Hero Section.
+#Hero Section
 
-Screenshot 2
-Card Section.
+![hero](https://github.com/livujjwal/F1-C2-Blog/assets/132872642/a2e6d888-80be-4933-9009-24da267deb63)
 
-Screenshot 3
-Footer Section.
+
+#Card Section
+
+![blog](https://github.com/livujjwal/F1-C2-Blog/assets/132872642/f58b7544-d5f6-4012-9599-b309ac500a5c)
+
+#Footer Section
+
+![footer](https://github.com/livujjwal/F1-C2-Blog/assets/132872642/21a5aef6-baf7-4317-bf3e-209fb5e9d999)
+
 
 
 ##Contact
